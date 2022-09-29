@@ -1,3 +1,5 @@
+import "dd-trace/init";
+
 import * as express from "express";
 
 const app = express();
